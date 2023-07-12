@@ -3,4 +3,4 @@
 - Used **OpenCV**  for color detection
 - Used **ROS** to implement the program onto the video
       - Subscriber and Listener classes
-- Transformed image matrices 
+- Transformed image matrices => image/color manipulation
